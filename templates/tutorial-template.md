@@ -15,9 +15,9 @@ Brief description of what you'll learn in this tutorial.
 
 ## What You'll Learn
 
-학습 내용:
-
 Learning objectives:
+
+학습 내용:
 
 - Objective 1
 - Objective 2
@@ -25,9 +25,9 @@ Learning objectives:
 
 ## Prerequisites
 
-전제 조건:
-
 Prerequisites:
+
+전제 조건:
 
 - [ ] Prerequisite 1
 - [ ] Prerequisite 2
@@ -35,15 +35,15 @@ Prerequisites:
 
 ## Estimated Time
 
-예상 소요 시간: X minutes/hours
-
 Estimated time: X minutes/hours
+
+예상 소요 시간: X minutes/hours
 
 ## Difficulty Level
 
-난이도: Beginner / Intermediate / Advanced
-
 Difficulty: Beginner / Intermediate / Advanced
+
+난이도: Beginner / Intermediate / Advanced
 
 ## Setup
 
@@ -121,9 +121,9 @@ Continue with additional steps as needed.
 
 ### How to Verify Your Work
 
-작업을 확인하는 방법:
-
 How to verify your work:
+
+작업을 확인하는 방법:
 
 ```bash
 # Verification commands
@@ -139,9 +139,9 @@ Expected results:
 
 ## Troubleshooting
 
-일반적인 문제 해결:
-
 Common troubleshooting:
+
+일반적인 문제 해결:
 
 ### Problem 1
 
@@ -166,9 +166,9 @@ Common troubleshooting:
 
 ## Complete Code
 
-전체 코드:
-
 Complete code:
+
+전체 코드:
 
 ```language
 // Full working code example
@@ -177,9 +177,9 @@ Complete code:
 
 ## Next Steps
 
-다음 단계:
-
 Next steps:
+
+다음 단계:
 
 - [ ] Suggested next tutorial or topic
 - [ ] Additional resources to explore
@@ -187,9 +187,9 @@ Next steps:
 
 ## Summary
 
-요약:
-
 Summary:
+
+요약:
 
 Brief summary of what was covered.
 
@@ -197,9 +197,9 @@ Brief summary of what was covered.
 
 ## Additional Resources
 
-추가 자료:
-
 Additional resources:
+
+추가 자료:
 
 - [Resource 1](link)
 - [Resource 2](link)
