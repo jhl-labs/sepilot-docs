@@ -4,7 +4,7 @@ date: YYYY-MM-DD
 category: tutorials
 tags: [tutorial, guide, step-by-step]
 difficulty: beginner|intermediate|advanced
-estimated_time: X minutes/hours
+estimated_time: [X] minutes/hours
 ---
 
 # Tutorial Title
@@ -35,15 +35,15 @@ Prerequisites:
 
 ## Estimated Time
 
-Estimated time: X minutes/hours
+Estimated time: [X] minutes/hours
 
-예상 소요 시간: X minutes/hours
+예상 소요 시간: [X] 분/시간
 
 ## Difficulty Level
 
 Difficulty: Beginner / Intermediate / Advanced
 
-난이도: Beginner / Intermediate / Advanced
+난이도: 초급 / 중급 / 고급
 
 ## Setup
 
@@ -208,5 +208,5 @@ Additional resources:
 ---
 
 **Last Updated**: YYYY-MM-DD
-**Difficulty**: Beginner/Intermediate/Advanced
-**Time Required**: X minutes/hours
+**Difficulty**: Beginner/Intermediate/Advanced (초급/중급/고급)
+**Time Required**: [X] minutes/hours ([X] 분/시간)

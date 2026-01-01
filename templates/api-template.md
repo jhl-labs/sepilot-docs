@@ -14,7 +14,7 @@ Brief description of what this API does.
 ## Endpoint
 
 ```
-METHOD /api/v1/endpoint-path
+{HTTP_METHOD} /api/v1/endpoint-path
 ```
 
 ## Authentication
@@ -153,7 +153,7 @@ Authorization: Bearer {token}
 ### Example 1: Basic Request
 
 ```bash
-curl -X METHOD https://api.example.com/api/v1/endpoint-path \
+curl -X {HTTP_METHOD} https://api.example.com/api/v1/endpoint-path \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer YOUR_TOKEN" \
   -d '{
