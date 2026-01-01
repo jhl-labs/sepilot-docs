@@ -171,9 +171,9 @@ curl -X GET https://api.example.com/api/v1/endpoint-path?page=1&limit=20 \
 
 ## Rate Limiting
 
-이 API의 속도 제한 정보.
-
 Rate limiting information for this API.
+
+이 API의 속도 제한 정보.
 
 - Rate limit: 100 requests per minute
 - Header: `X-RateLimit-Remaining`
